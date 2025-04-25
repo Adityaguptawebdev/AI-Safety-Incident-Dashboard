@@ -19,6 +19,8 @@ A responsive and interactive dashboard for viewing, filtering, sorting, and repo
 
 ## 🧠 Optional Enhancements
 
+![Dashboard View](./s1.png)
+![Report Form](./s2.png)
 To enable data persistence between sessions, uncomment the following lines at the bottom of `script.js`:
 
 ```javascript
