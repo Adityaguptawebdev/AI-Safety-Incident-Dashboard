@@ -1,6 +1,14 @@
 # 🛡️ AI Safety Incident Dashboard
 
 A responsive and interactive dashboard for viewing, filtering, sorting, and reporting hypothetical AI safety incidents. Built with vanilla HTML, CSS, and JavaScript.
+## 🌐 Live Link
+
+Check out the live demo of the AI Safety Incident Dashboard: [Live Demo]([https://adityagupta.github.io/ai-safety-dashboard/](https://adityaguptawebdev.github.io/AI-Safety-Incident-Dashboard/))
+
+## 🌐 Live Link on Netlify
+
+Check out the live demo of the AI Safety Incident Dashboard: [Live Demo](https://nimble-palmier-314855.netlify.app/)
+
 
 ## 🚀 Features
 
