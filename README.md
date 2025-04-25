@@ -17,10 +17,15 @@ A responsive and interactive dashboard for viewing, filtering, sorting, and repo
 2. Open the `index.html` file in your web browser.
 3. No build steps or dependencies required!
 
+📸 Screenshots
+Below are some screenshots of the dashboard interface:
+🔷 Dashboard View
+![Dashboard View](./s1.png)
+🟨 Report New Incident Form
+![Report Form](./s2.png)
+
 ## 🧠 Optional Enhancements
 
-![Dashboard View](./s1.png)
-![Report Form](./s2.png)
 To enable data persistence between sessions, uncomment the following lines at the bottom of `script.js`:
 
 ```javascript
