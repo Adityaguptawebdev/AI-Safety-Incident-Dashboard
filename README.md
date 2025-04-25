@@ -18,7 +18,9 @@ A responsive and interactive dashboard for viewing, filtering, sorting, and repo
 3. No build steps or dependencies required!
 
 ##📸 Screenshots
+
 Below are some screenshots of the dashboard interface:
+
 ##🔷 Dashboard View
 
 ![Dashboard View](./s1.png)
