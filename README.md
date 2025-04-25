@@ -1,41 +1,26 @@
-# AI Safety Incident Dashboard
+# 🛡️ AI Safety Incident Dashboard
 
-A responsive and interactive dashboard for viewing, filtering, sorting, and reporting hypothetical AI safety incidents. Built with vanilla HTML, CSS, and JavaScript.
+A responsive and interactive dashboard for viewing, filtering, sorting, and reporting hypothetical AI safety incidents. Built using **vanilla HTML, CSS, and JavaScript**, this project simulates a real-world scenario aligned with AI safety challenges.
 
-## Setup Instructions
+## 🚀 Features
 
-1. Clone or download this repository
-2. Open the `index.html` file in your web browser
-3. No build steps or dependencies required!
+- 📋 **View Incidents**: Browse a list of AI safety incidents with title, severity, and reported date.
+- 🎯 **Filter by Severity**: Easily filter incidents by severity — Low, Medium, or High.
+- 📅 **Sort by Date**: Sort incidents from newest to oldest or vice versa.
+- 🔍 **Toggle Details**: Click "View Details" to show or hide the full description of an incident.
+- 📝 **Report New Incidents**: Submit new incidents using a responsive form with validation.
+- 📱 **Responsive Design**: Fully responsive for mobile, tablet, and desktop screens.
 
-## Features
+## 🛠️ Setup Instructions
 
-- **View Incidents**: Browse through a list of AI safety incidents with details
-- **Filter by Severity**: Filter incidents by Low, Medium, or High severity
-- **Sort by Date**: Sort incidents by newest or oldest first
-- **Toggle Details**: Click "View Details" to show or hide incident descriptions
-- **Report New Incidents**: Submit new incidents via the form
-- **Responsive Design**: Works on mobile, tablet, and desktop devices
+1. Clone or download this repository.
+2. Open the `index.html` file directly in your browser.
+3. No installation or build steps are required!
 
-## Optional Enhancements
+## 🧠 Optional Enhancements
 
-To enable data persistence between sessions, uncomment the following lines at the bottom of `script.js`:
+To enable **data persistence** between browser sessions using `localStorage`, simply uncomment the following lines at the bottom of `script.js`:
 
 ```javascript
 // loadFromLocalStorage();
 // window.addEventListener('beforeunload', saveToLocalStorage);
-```
-
-## Project Structure
-
-- `index.html` - Main HTML structure
-- `style.css` - Styling for the dashboard
-- `script.js` - JavaScript functionality
-
-## Screenshot
-
-(Add screenshots after implementation)
-
-## License
-
-This project is open source and available for educational purposes.
